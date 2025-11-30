@@ -1430,6 +1430,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764514806297",
+      "title": "常用页",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
