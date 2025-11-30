@@ -108,14 +108,6 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
-        },
-        {
-          "id": "1764304637626",
-          "title": "Google 云端硬盘",
-          "href": "https://drive.google.com/",
-          "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
-          "icon": "/assets/favicon_1764304640963.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -240,14 +232,6 @@
               "href": "https://gamma.app/",
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            },
-            {
-              "id": "1764162262399",
-              "title": "Google NotebookLM | AI 研究工具与思考伙伴",
-              "href": "https://notebooklm.google/",
-              "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
-              "icon": "/assets/favicon_1764162265139.svg",
               "enabled": true
             }
           ]
@@ -377,22 +361,6 @@
               "href": "https://tweakcn.com/",
               "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
               "icon": "/assets/img_1751433579053.png",
-              "enabled": true
-            },
-            {
-              "id": "1763352554793",
-              "title": "Shadcn Marketing Blocks | Tailark",
-              "href": "https://tailark.com/",
-              "description": "Speed up your workflow with responsive, pre-built UI blocks designed for marketing websites.",
-              "icon": "/assets/favicon_1763352557389.svg",
-              "enabled": true
-            },
-            {
-              "id": "1763380040947",
-              "title": "IndieHub ",
-              "href": "https://indiehub.best/tool?category=ui-component",
-              "description": "IndieHub is a community for Indie Makers to discover tools, launch products, and ship applications faster and better.",
-              "icon": "/assets/favicon_1763380043621.ico",
               "enabled": true
             }
           ]
@@ -657,14 +625,6 @@
               "href": "https://ai-sdk.dev/",
               "description": "The AI Toolkit for TypeScript, from the creators of Next.js.",
               "icon": "/assets/favicon_1760433274445.ico",
-              "enabled": true
-            },
-            {
-              "id": "1763352609100",
-              "title": "Payloadcms",
-              "href": "https://payloadcms.com/",
-              "description": "访问 payloadcms.com",
-              "icon": "/assets/favicon_1763352611319.png",
               "enabled": true
             }
           ]
@@ -1430,15 +1390,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1764514806297",
-      "title": "常用页",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
